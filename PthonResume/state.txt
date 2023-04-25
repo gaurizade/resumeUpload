@@ -1,0 +1,87 @@
+Andhra pradesh
+Bihar
+Telangana
+Rajasthan
+Punjab
+Assam
+Uttar pradesh
+Karnataka
+Madhya pradesh
+Jharkhand
+Odisha
+Maharashtra
+Gujarat
+Chhattisgarh
+Tamil nadu
+West bengal
+Himachal pradesh
+Haryana
+Kerala
+Delhi
+Jammu and kashmir
+Meghalaya
+Manipur
+The dadra and nagar haveli and daman and diu
+Mizoram
+Ladakh
+Nagaland
+Tripura
+Arunachal pradesh
+Lakshadweep
+Puducherry
+Chandigarh
+Goa
+Uttarakhand
+Sikkim
+Andaman and nicobar islands
+//us State
+Wyoming
+Wisconsin
+West Virginia
+Washington
+Virginia
+Vermont
+Utah
+Texas
+Tennessee
+South Dakota
+South Carolina
+Rhode Island
+Pennsylvania
+Oregon
+Oklahoma
+Ohio
+North Dakota
+North Carolina
+New York
+New Mexico
+New Jersey
+New Hampshire
+Nevada
+Nebraska
+Montana
+Missouri
+Mississippi
+Minnesota
+Michigan
+Massachusetts
+Maryland
+Maine
+Louisiana
+Kentucky
+Kansas
+Iowa
+Indiana
+Illinois
+Idaho
+Hawaii
+Georgia
+Florida
+Delaware
+Connecticut
+Colorado
+California
+Arkansas
+Arizona
+Alaska
+Alabama
